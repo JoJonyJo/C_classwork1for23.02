@@ -1,1 +1,12 @@
-﻿
+﻿//int num = new Random().Next(100, 1000);
+//Console.WriteLine(num);
+//Console.WriteLine(num%10);
+// use '/' or '%'
+
+int TakeNum(int num)
+{
+    Console.WriteLine(num);
+    return num % 10;
+}
+int result = TakeNum(new Random().Next(100, 1000));
+Console.WriteLine (result);

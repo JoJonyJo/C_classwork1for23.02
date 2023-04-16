@@ -1,0 +1,15 @@
+D:\Обучение программированию\C#\C_classwork1for23.02\1_lesson\Task_1_0\obj\Debug\net6.0\Task_1_0.csproj.AssemblyReference.cache
+D:\Обучение программированию\C#\C_classwork1for23.02\1_lesson\Task_1_0\obj\Debug\net6.0\Task_1_0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение программированию\C#\C_classwork1for23.02\1_lesson\Task_1_0\obj\Debug\net6.0\Task_1_0.AssemblyInfoInputs.cache
+D:\Обучение программированию\C#\C_classwork1for23.02\1_lesson\Task_1_0\obj\Debug\net6.0\Task_1_0.AssemblyInfo.cs
+D:\Обучение программированию\C#\C_classwork1for23.02\1_lesson\Task_1_0\obj\Debug\net6.0\Task_1_0.csproj.CoreCompileInputs.cache
+D:\Обучение программированию\C#\C_classwork1for23.02\1_lesson\Task_1_0\bin\Debug\net6.0\Task_1_0.exe
+D:\Обучение программированию\C#\C_classwork1for23.02\1_lesson\Task_1_0\bin\Debug\net6.0\Task_1_0.deps.json
+D:\Обучение программированию\C#\C_classwork1for23.02\1_lesson\Task_1_0\bin\Debug\net6.0\Task_1_0.runtimeconfig.json
+D:\Обучение программированию\C#\C_classwork1for23.02\1_lesson\Task_1_0\bin\Debug\net6.0\Task_1_0.dll
+D:\Обучение программированию\C#\C_classwork1for23.02\1_lesson\Task_1_0\bin\Debug\net6.0\Task_1_0.pdb
+D:\Обучение программированию\C#\C_classwork1for23.02\1_lesson\Task_1_0\obj\Debug\net6.0\Task_1_0.dll
+D:\Обучение программированию\C#\C_classwork1for23.02\1_lesson\Task_1_0\obj\Debug\net6.0\refint\Task_1_0.dll
+D:\Обучение программированию\C#\C_classwork1for23.02\1_lesson\Task_1_0\obj\Debug\net6.0\Task_1_0.pdb
+D:\Обучение программированию\C#\C_classwork1for23.02\1_lesson\Task_1_0\obj\Debug\net6.0\Task_1_0.genruntimeconfig.cache
+D:\Обучение программированию\C#\C_classwork1for23.02\1_lesson\Task_1_0\obj\Debug\net6.0\ref\Task_1_0.dll
